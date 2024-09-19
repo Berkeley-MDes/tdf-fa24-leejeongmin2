@@ -72,7 +72,8 @@ I decided to make a headphone stand reflecting my daily life as a user.
 
 
 ## Images & Video
-Screenshot 2024-09-12 at 3 06 16 PM Screenshot 2024-09-12 at 3 02 17 PM
+<img width="552" alt="Screenshot 2024-09-12 at 3 06 16 PM" src="https://github.com/user-attachments/assets/a7a127dc-c130-45b0-8603-f7db16459e70">
+<img width="1420" alt="Screenshot 2024-09-12 at 3 02 17 PM" src="https://github.com/user-attachments/assets/7abda7d5-c397-4a71-b1b3-8a95a33e72e0">
 
 
 ## Sketch
