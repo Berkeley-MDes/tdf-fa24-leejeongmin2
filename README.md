@@ -89,7 +89,7 @@ I decided to make a headphone stand reflecting my daily life as a user.
 
 # Week of 09/19/2024
 I made a final prototype of my headphone stand and tried out 3d printing.
-Also, I completed deliverable video for my cohorts showcasing my journey with this project.
+Also, I completed a deliverable video for my cohorts showcasing my journey with this project.
 
 ## Reflection
 
@@ -126,6 +126,41 @@ https://github.com/user-attachments/assets/7a416543-56bb-4722-b74d-542a14965a35
 ## Sketch
 <img width="507" alt="Screenshot 2024-09-19 at 1 14 27 PM" src="https://github.com/user-attachments/assets/619dd681-263f-49bc-8e4b-d9a228b8c3f0">
 <img width="540" alt="Screenshot 2024-09-19 at 1 14 39 PM" src="https://github.com/user-attachments/assets/c9c1defb-bbd1-4a7b-be19-10f271ba0d39">
+
+
+------
+
+# Week of 09/26/2024
+
+## Mapping Interaction Ecosystems
+
+### Entertainment & Media Ecosystems
+
+**First,** I checked my screen time to see which apps I use frequently and to understand their categories.
+
+![IMG_6741](https://github.com/user-attachments/assets/36c8c0f3-a36f-4520-bb97-35855c08e0fc)
+
+**Next**, I considered the purpose of my app usage and how I use them, dividing these two factors into the x and y axes to create a positioning map.
+- X: Informational <-> Entertainment
+- Y: Social (connecting with other people) <-> Content Consuming (not connecting other people, just consuming other's content)
+
+<img width="1316" alt="Screenshot 2024-09-26 at 1 12 24 PM" src="https://github.com/user-attachments/assets/bc193914-ee5a-45df-bcad-8e8331ab993e">
+
+
+**Last**, I reclassified the purposes of my app usage once more. I identified that the flow of obtaining, consuming information, and interacting with others is connected linearly, and I organized how this flow operates.
+
+1. I obtain official information about school and job-related matters through Slack, WhatsApp cohort group chats, and LinkedIn. I mainly get information about official events from the school or companies, internship opportunities, exhibitions, and competitions.
+
+2. If the information from step 1 is insufficient or if I need others' opinions or additional comments on that information, I turn to Reddit for further insights. At this stage, extra information is added to the formal information obtained earlier, creating a flow where the overall amount of information increases.
+
+3. I gather a mix of official and unofficial information through platforms like X (formerly Twitter), TikTok, and YouTube. This information is often entertainment-oriented, helping me relieve stress or stay updated on social trends.
+
+4. I process the information obtained from steps 1, 2, and 3 and engage in conversations with others, using this as a means of social networking. Others also go through similar steps, and there’s a flow where we exchange the information we've gathered from these processes.
+
+
+<img width="1017" alt="Screenshot 2024-09-26 at 1 14 32 PM" src="https://github.com/user-attachments/assets/12d5183c-29f4-4ffe-acbc-75ace387f151">
+
+
 
 
 
