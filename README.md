@@ -168,7 +168,7 @@ This week, I installed the platform called Particle and learned the basics of C+
 
 However, my progress has been slower than Jeff's expectations, so I plan to work harder next week to catch up.
 
-### Speculation
+### Process
 
 1. 9/26 in class: I wrote code where the entire "hello world!" sentence appears at 3-second intervals.
 2. 9/30 homework: I wrote code where each character of "hello world!" appears at 3-second intervals.
@@ -232,6 +232,15 @@ For some unknown reason, I opened the example file that Jeff provided and starte
 ### Reflection
 
 Though the progress is very slow, I’m grateful to be learning bit by bit. By next week, I will ensure that I can monitor the display on Photon. Additionally, I’ll challenge myself to try out the example Jeff explained, where the LED blinks using a button.
+
+
+### Speculation
+
+What could I create with what I learned today?
+
+I could make something that outputs words of encouragement or support at specific times. For example, when feeling tired from working for long periods, it could show uplifting words every two hours. Or, during a discussion, when I feel hesitant to speak up, it could display a message to encourage me to share my thoughts.
+
+Small words can easily influence people's moods and attitudes. The text display I learned to create this week could serve this purpose.
 
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
