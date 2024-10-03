@@ -160,8 +160,78 @@ https://github.com/user-attachments/assets/7a416543-56bb-4722-b74d-542a14965a35
 
 <img width="1017" alt="Screenshot 2024-09-26 at 1 14 32 PM" src="https://github.com/user-attachments/assets/12d5183c-29f4-4ffe-acbc-75ace387f151">
 
+-----
+
+# Week of 2024/10/03
+
+This week, I installed the platform called Particle and learned the basics of C++ using the Photon. Since it was my first time using VSCode, it took me a while to get familiar with the interface, but I’m proud to have successfully completed the basic setup and monitoring.
+
+However, my progress has been slower than Jeff's expectations, so I plan to work harder next week to catch up.
+
+### Speculation
+
+1. 9/26 in class: I wrote code where the entire "hello world!" sentence appears at 3-second intervals.
+2. 9/30 homework: I wrote code where each character of "hello world!" appears at 3-second intervals.
+ ```
+   void loop() {
+  if (count == size_hello) {
+    count = 0;
+  }
+
+  // Test with simpler log output to ensure logging works correctly
+  Log.info("current character: %c", hello[count]);
+  
+  count++;
+  delay(300);
+}
+```
+
+https://github.com/user-attachments/assets/1dbbd4d1-1987-471a-a48b-7492cd9b260f
 
 
+3. Next, I adjusted settings like the class name and delay, and instead of the phrase "hello world!", I made each character of my name appear one by one.
+
+ ```
+#include "Particle.h"
+
+// Define the system setup and log handler
+SYSTEM_MODE(AUTOMATIC);
+SYSTEM_THREAD(ENABLED);
+SerialLogHandler logHandler(LOG_LEVEL_ALL);  // 로그 레벨을 ALL로 설정
+
+char myname[] = "Jeongmin Lee ";
+int size_myname = sizeof(myname) - 1;
+int count = 0;
+
+void setup() {
+  Log.info("-------------Welcome to the myname World example!-------------");
+}
+
+void loop() {
+  if (count == size_myname) {
+    count = 0;
+  }
+
+  // Test with simpler log output to ensure logging works correctly
+  Log.info("current character: %c", myname[count]);
+  
+  count++;
+  delay(300);
+}
+
+ ```
+
+https://github.com/user-attachments/assets/375dc102-5986-487c-80de-9db439cb7d93
+
+
+### Failure
+For some unknown reason, I opened the example file that Jeff provided and started monitoring, but despite setting everything up correctly, the monitoring kept failing. When I copied and pasted the code into the file I was originally working on and started monitoring, it worked fine, but I couldn't figure out why.
+
+
+
+### Reflection
+
+Though the progress is very slow, I’m grateful to be learning bit by bit. By next week, I will ensure that I can monitor the display on Photon. Additionally, I’ll challenge myself to try out the example Jeff explained, where the LED blinks using a button.
 
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
