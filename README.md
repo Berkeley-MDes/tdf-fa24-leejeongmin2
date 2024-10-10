@@ -271,6 +271,7 @@ Using a pulse sensor would indicate calmness.
 ### Diagram: Design and Data Flow
 The following diagram represents the system design and data flow:
 
+ ```
 [ Stemma QT Sensors ] --> [ Particle Device ]
         |                    |
         V                    V
@@ -282,6 +283,7 @@ The following diagram represents the system design and data flow:
                              V
                  [ Second Device Uses Data for Output ]
 
+ ```
 
 
 
