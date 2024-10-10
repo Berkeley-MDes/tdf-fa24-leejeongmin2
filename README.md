@@ -243,6 +243,49 @@ I could make something that outputs words of encouragement or support at specifi
 Small words can easily influence people's moods and attitudes. The text display I learned to create this week could serve this purpose.
 
 
+-----
+# Week of 2024/10/10
+
+
+This experiment explores sensor-based projects using the Stemma QT interface with a Particle device. It involves soldering the interface, configuring the project in Visual Studio Code, and experimenting with the demo firmware. The objective is to map sensor values to outputs like LED control and share data between devices using Particle.publish() and Particle.subscribe(). This report summarizes the findings and considerations.
+
+
+### Soldering
+![IMG_6949](https://github.com/user-attachments/assets/f1afd0aa-b629-4541-abe8-dbf5eb11d0d3)
+![IMG_6950](https://github.com/user-attachments/assets/d8065872-fe6f-4f03-bc8d-187215a20c26)
+
+Josh helped me with how to do soldering and instructed me to use it safely.
+
+### Reflection
+The experiment showed the potential of integrating sensor data with various outputs and sharing sensor values across devices. While the basic demo firmware provided limited functionality, through the use of map(), constrain(), and data smoothing techniques, sensor values could be mapped to other processes such as LED brightness control. The feasibility of sharing sensor data via Particle’s cloud was explored, highlighting both opportunities and challenges in latency and data accuracy. Further work could involve expanding the output options and testing real-time data synchronization across multiple devices.
+
+### Speculation
+Based on this experiment, Subin, Hannah, and I grouped as a team for the 2nd project.
+Our concept is about a calming down system for people who are arguing/conflicting.
+We are going to use sound input and recognize the sound, whether it is fighting or not.
+Then, the music sound will be used as an output.
+Using a pulse sensor would indicate calmness.
+
+
+
+### Diagram: Design and Data Flow
+The following diagram represents the system design and data flow:
+
+[ Stemma QT Sensors ] --> [ Particle Device ]
+        |                    |
+        V                    V
+[ Sensor Data Mapping ]    [ Publish Sensor Data to Cloud ]
+        |                    |
+        V                    V
+[ LED Control ]         [ Subscribe to Data on Second Device ]
+                             |
+                             V
+                 [ Second Device Uses Data for Output ]
+
+
+
+
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
