@@ -285,8 +285,34 @@ The following diagram represents the system design and data flow:
 
  ```
 
+-----
+
+# Week of 2024/10/17
+
+This week, our team developed each own part. My part is making a physical artifact for containing a speaker, mic and photon.
+
+## Process
+
+### for frame
+1. I designed a simple box-shaped product with 2 feet (10x10x4cm) to put all things in it.
+2. Also, I made a little hole to put the wires out.
+
+### for lids
+Then, I designed the front and back lids. 
+1. The back is just a simple panel,
+2. but the front lid should have a hole for the mic, which is a 1cm hole.
+3. Also, I made lined holes that make sound come out.
+
+### Frame + lids
+I made 4.5mm holes on each edge of the frame and added 4 extrudes on the front and back lids to make them fit each other.
 
 
+## Sketch
+![IMG_7261](https://github.com/user-attachments/assets/a9b734bf-1d90-4f0e-a910-110f29e759a3)
+
+
+## Reflection
+I initially sketched the ultrasonic device to look like a face with eyes, nose, and mouth, thinking it was a speaker. However, I realized it wasn't a speaker and, with Jeff's help, I was able to get a larger speaker. Although it's a bit big, it fortunately fits. Over the weekend, I plan to shoot the demo video and edit the final version.
 
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
