@@ -311,6 +311,16 @@ I made 4.5mm holes on each edge of the frame and added 4 extrudes on the front a
 ![IMG_7261](https://github.com/user-attachments/assets/a9b734bf-1d90-4f0e-a910-110f29e759a3)
 
 
+## Image
+![IMG_7263](https://github.com/user-attachments/assets/447f19f8-5c5c-4f8d-80b4-c4c69325d527)
+
+
+
+https://github.com/user-attachments/assets/d1685436-6a55-4642-8f3b-1ec49e268724
+
+
+
+
 ## Reflection
 I initially sketched the ultrasonic device to look like a face with eyes, nose, and mouth, thinking it was a speaker. However, I realized it wasn't a speaker and, with Jeff's help, I was able to get a larger speaker. Although it's a bit big, it fortunately fits. Over the weekend, I plan to shoot the demo video and edit the final version.
 
