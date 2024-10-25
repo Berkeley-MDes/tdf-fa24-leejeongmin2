@@ -324,6 +324,30 @@ https://github.com/user-attachments/assets/d1685436-6a55-4642-8f3b-1ec49e268724
 ## Reflection
 I initially sketched the ultrasonic device to look like a face with eyes, nose, and mouth, thinking it was a speaker. However, I realized it wasn't a speaker and, with Jeff's help, I was able to get a larger speaker. Although it's a bit big, it fortunately fits. Over the weekend, I plan to shoot the demo video and edit the final version.
 
+
+-----
+# Week of 2024/10/24
+
+## Reflection
+
+This week, my team collaborated to film and edit a demonstration video. We encountered challenges connecting the Photon to the Berkeley IoT Wi-Fi, which led to delays as we worked to establish a proper connection. I eventually resolved the issue by identifying alternative networks. I directed the demo video, with Subin and Hannah taking on acting roles. After filming, I gathered everyone's footage and edited the video.
+
+## Speculation
+
+Moving forward, I anticipate that our team will become more skilled at addressing IoT connectivity challenges, leading to quicker setups during filming. To prevent similar setbacks, we could create a checklist specifically for connecting the Photon and Berkeley IoT Wi-Fi, ensuring a smoother workflow in future projects.
+
+In terms of video production, I see opportunities to improve our process by planning transitions and roles more thoroughly before filming. This will help make the editing process more efficient. Collaborating on this project has strengthened our teamwork, and I’m optimistic that our communication and coordination will continue to improve as we take on more complex tasks.
+
+
+## Video
+
+https://youtu.be/Mkrjj4jm3fM
+
+this is our final video
+
+## Sketch
+There was no sketch for this week.
+
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
