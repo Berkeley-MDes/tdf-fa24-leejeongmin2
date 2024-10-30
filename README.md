@@ -351,3 +351,57 @@ There was no sketch for this week.
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
+
+
+# Week of 2024/10/31
+
+## Process
+
+I did 4 different experiments on Zerowidth
+
+1. Experiment 1: GPT + Temperature
+   I asked "What is your purpose?" 
+<img width="1485" alt="Screenshot 2024-10-29 at 11 22 17 PM" src="https://github.com/user-attachments/assets/41fbfa31-966a-4e38-8114-e54e6e8fd878">
+
+then adjusted temperature
+<img width="1460" alt="Screenshot 2024-10-29 at 11 24 55 PM" src="https://github.com/user-attachments/assets/671c5d69-d3bb-4da6-8b04-b34b7ee86da0">
+
+Errors occurred sometimes.
+
+<img width="1530" alt="Screenshot 2024-10-29 at 11 25 21 PM" src="https://github.com/user-attachments/assets/d8c094cc-97f6-4b6b-a64d-6416be75402c">
+
+It's alright now. I could see the answer changed when I adjusted the slider, but I didn't see any functional values changed.
+
+
+2. Experiment 2: GPT + Instruct prompt
+<img width="1278" alt="Screenshot 2024-10-29 at 11 42 48 PM" src="https://github.com/user-attachments/assets/5cfcce17-21a6-43da-82a7-98a785809ba0">
+
+I added an instruct prompt. Then, its answer got more relevant to my information. But I think it's a kind of manual approach.
+
+
+3. Experiment 3: GPT + Instruct + RAG
+
+<img width="1530" alt="Screenshot 2024-10-29 at 11 56 46 PM" src="https://github.com/user-attachments/assets/ab37b8a0-0b0c-4c6c-b0bc-485f84fbe476">
+
+I created a knowledge base based on my CV, and it created 10 chunks since I set 55 initial chunks
+In TJ's tutorial, he set 300 initial chunks, which had 11 chunks.
+I think that's the reason why my LLM's answer is not accurate?
+
+
+4. Experiment 4: GPT + Instruct + RAG +Variables
+
+I added 2 variables: Location and Year.
+I didn't really understand how it related to the answer result. I'll figure it out during the next class.
+
+<img width="1426" alt="Screenshot 2024-10-30 at 12 21 52 AM" src="https://github.com/user-attachments/assets/4eccc87e-25c1-4534-ac8f-46b25f3df1b6">
+
+## Reflection
+
+I think most of the correct answers are based on my manually written instruction prompt.
+When I ask random questions that are not covered through the prompt (e.g., where was she during 2022?)
+It created hallucinations.
+
+## Speculation
+
+I can imagine I would practice job interviews by using Mini Me. It understood my background and experience and created reasonable answers.
+So, I might crawl the expected interview questions and ask them. Then, I would get outlines for my interview answers.
