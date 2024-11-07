@@ -405,3 +405,40 @@ It created hallucinations.
 
 I can imagine I would practice job interviews by using Mini Me. It understood my background and experience and created reasonable answers.
 So, I might crawl the expected interview questions and ask them. Then, I would get outlines for my interview answers.
+
+
+
+------
+
+
+# Week of 2024/11/07
+
+## Process
+
+Last week, even though I included the knowledge base, the response results were unsatisfactory. I found the reason: I hadn’t included a sentence in the prompt to retrieve the user query. After fixing this, I achieved satisfactory results.
+
+For my final experiment, I added 2 more knowledge bases: MDes class curriculum and my TDF weekly report.
+I asked 5 questions and the result was great and made sense.
+<img width="967" alt="Screenshot 2024-11-07 at 12 48 06 PM" src="https://github.com/user-attachments/assets/da716b68-6d8a-40f4-80b8-f5ca23029289">
+
+
+## Reflection
+after I finished the final experiment I asked the questions for evaluation and the answer was pretty accurate and natural. 
+It was fun to see the result especially when it said i felt being lost while exploring the features of the Grasshopper program,
+and when it mentioned about my headphone stand for my first project.
+
+I satisfied with the result and it was fun process to learn about LLM following the video tutorials.
+
+## Speculation
+
+- human experience
+As personalized AIs become more integrated, human interaction with technology could shift from static to adaptive, tailored experiences. This could reshape the Anthropogenic Environment by making it responsive to cultural identity and diversity, pushing AI to recognize and respect individual backgrounds. Culturally, this may drive new expectations for AI to accommodate personal and cultural nuances within shared digital spaces.
+
+- Engineering
+Personalized AI could lead to expectations for products to be customizable and responsive, with engineering increasingly focused on modularity and adaptability. This shift would require engineers to consider cultural diversity and ethical factors like privacy, ensuring products serve users individually while respecting cultural contexts.
+
+- The Role of AI in AI Development
+AI could help refine and improve other AI systems, especially in understanding diverse user backgrounds and detecting bias. By enabling recursive improvement, AI might evolve to better reflect human cultural diversity and adapt to shifting societal needs, co-evolving alongside human expectations.
+
+
+
