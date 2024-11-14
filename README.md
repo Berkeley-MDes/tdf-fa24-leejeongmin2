@@ -440,5 +440,20 @@ Personalized AI could lead to expectations for products to be customizable and r
 - The Role of AI in AI Development
 AI could help refine and improve other AI systems, especially in understanding diverse user backgrounds and detecting bias. By enabling recursive improvement, AI might evolve to better reflect human cultural diversity and adapt to shifting societal needs, co-evolving alongside human expectations.
 
+-----
+
+
+# Week of 2024/11/14
+
+## Process
+
+This week, I completed my video presentation, marking the end of a major phase in my current project. Preparing for this presentation involved consolidating all the work I’ve done so far, from initial experiments to refining my final system design. It was a valuable opportunity to review the progress made, evaluate my understanding, and reflect on areas where I could improve or expand my approach. Completing the presentation felt rewarding, as it allowed me to share the results of my work, demonstrating the knowledge and skills I’ve developed over the semester.
+
+## Reflection
+Now that the presentation is complete, I have started to shift my focus towards planning a final project. This transition feels timely, as the progress I’ve made in recent weeks has given me a solid foundation of technical skills, which I’m eager to expand upon. Thinking about the final project is exciting because it presents an opportunity to bring together everything I’ve learned and to explore a more comprehensive, ambitious application of my skills. I’m considering different directions I could take, such as creating an interactive installation or a tool that enhances user engagement through adaptive design.
+
+One area I’m particularly interested in is integrating sensor-based technology with AI-driven responses to create an experience that feels responsive and personalized. Another possibility is to focus on user-centered design principles, using my knowledge of interaction design to create a solution that addresses specific needs or problems. As I brainstorm, I’m keeping in mind the feedback I’ve received throughout the semester, especially regarding adaptability and user engagement, to guide my project’s direction.
+
+Overall, this week has been both a period of reflection and a time for forward planning. I’m looking forward to developing a project that challenges me creatively and technically, leveraging the skills I’ve gained this semester to create something impactful.
 
 
