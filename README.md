@@ -459,3 +459,17 @@ Overall, this week has been both a period of reflection and a time for forward p
 -----
 
 # Week of 2024/11/21
+
+### Reflection
+This week, I successfully integrated the Photon camera with cloud storage and validated the feasibility of pixelating images for simplified visual representation. The process reinforced the importance of aligning hardware functionality with user interaction goals, ensuring a seamless experience.
+
+### Speculation
+Moving forward, I anticipate challenges in fine-tuning the button’s press duration feature to capture happiness intensity accurately. Exploring user testing will be key to refining this feature and ensuring it aligns with real-world emotional expressions.
+
+### Image
+![Screenshot 2024-11-22 at 2 16 09 PM](https://github.com/user-attachments/assets/8cc1edd5-10e2-428a-a73c-092f5c6b6e03)
+This is final UI for app screen
+
+### Sketch
+![Screenshot 2024-11-22 at 2 16 31 PM](https://github.com/user-attachments/assets/d1919061-2cdb-49b7-8da1-d0903ffa9765)
+This is first draft of this concept
