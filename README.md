@@ -456,4 +456,6 @@ One area I’m particularly interested in is integrating sensor-based technology
 
 Overall, this week has been both a period of reflection and a time for forward planning. I’m looking forward to developing a project that challenges me creatively and technically, leveraging the skills I’ve gained this semester to create something impactful.
 
+-----
 
+# Week of 2024/11/21
