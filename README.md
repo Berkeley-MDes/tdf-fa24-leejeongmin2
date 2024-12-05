@@ -473,3 +473,31 @@ This is final UI for app screen
 ### Sketch
 ![Screenshot 2024-11-22 at 2 16 31 PM](https://github.com/user-attachments/assets/d1919061-2cdb-49b7-8da1-d0903ffa9765)
 This is first draft of this concept
+
+
+---
+
+# Week of 2024/12/05
+
+### Process
+
+This week, I explored CSS and HTML to develop the front-end interface for the UI I designed last week. The design implementation involved crafting responsive layouts and refining styles to align closely with the original design specifications. After completing the front-end development, Arya and I collaborated to integrate my work with his back-end development. During the integration, Arya requested that I convert the static HTML structure into a React-based implementation using JavaScript, which required adjusting my workflow to accommodate the component-based architecture of React.
+
+### Reflection
+This week was a valuable learning experience in both front-end development and collaboration. Exploring CSS and HTML deepened my understanding of styling techniques and responsive design principles. The transition to React presented a new challenge, but it also provided an opportunity to familiarize myself with modern front-end frameworks and dynamic rendering. Collaborating with Arya highlighted the importance of clear communication and adaptability when bridging the front-end and back-end. I also realized the significance of structuring the front-end code in a modular and reusable way to facilitate easier integration with React.
+
+
+### Speculation
+Looking ahead, I anticipate needing to strengthen my proficiency in React to handle future requests like this more seamlessly. Diving deeper into component-based development and state management will likely be crucial. Collaboration with Arya might require closer synchronization of our workflows, so we may consider establishing shared coding conventions or using tools like Git for version control more effectively. Additionally, mastering the conversion process between static HTML and React components could significantly improve the efficiency of our integration efforts.
+
+### Image
+- js code
+<img width="1105" alt="Screenshot 2024-12-05 at 12 27 41 PM" src="https://github.com/user-attachments/assets/f0fabb7d-1900-425c-8001-4b2728e88892">
+
+- css code
+  <img width="1106" alt="Screenshot 2024-12-05 at 12 27 48 PM" src="https://github.com/user-attachments/assets/59aea4bb-a51e-487b-9a55-d86e01301aa4">
+
+
+### Sketch
+
+<img width="719" alt="Screenshot 2024-12-05 at 11 10 27 AM" src="https://github.com/user-attachments/assets/cae142c2-7901-4f9d-901b-5796c7059e64">
